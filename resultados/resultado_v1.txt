@@ -1,0 +1,15 @@
+========================================================================
+RESULTADO V1 - PROJEÇÃO ELEIÇÕES 2026 (2º TURNO)
+========================================================================
+Recebendo dados do TSE · 2,42% das seções apuradas · atualizado às 19:21
+[ projeção pouco confiável até 2,5% das seções ]
+------------------------------------------------------------------------
+  — Lula PT   : 51,1%  | faixa de 95%: 50,8 – 51,5 | apurado agora: 50,8%
+  — Flávio PL : 48,9%  | faixa de 95%: 48,5 – 49,2 | apurado agora: 49,2%
+------------------------------------------------------------------------
+  (Gabarito Oficial 100% TSE: Lula 51,79% vs Flávio 48,21%)
+  (Erro da V1 aos 2,42%: -0,67 p.p.)
+========================================================================
+Arquivos da V1:
+- Script V1: src/nowcasting_eleitoral_v1.py
+- Imagem Painel V1: resultados/painel_projecao_2026_v1.png

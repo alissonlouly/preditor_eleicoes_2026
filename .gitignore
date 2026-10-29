@@ -1,0 +1,22 @@
+# Microdados brutos e Parquets do TSE (gerados automaticamente em ./dados na 1ª execução)
+dados/*.parquet
+dados/*.zip
+dados/*.csv
+dados/*.sha512
+dados/csv_1t/
+dados/csv_2t/
+dados_tse_2026/
+*.parquet
+*.zip
+*.csv
+
+# Garante que a pasta dados/ e o cache leve do bootstrap sejam versionados
+!dados/.gitkeep
+!dados/cache_boot_v2.json
+
+# Ambientes e cache Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env

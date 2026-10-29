@@ -1,0 +1,13 @@
+========================================================================
+Recebendo dados do TSE · 2,42% das seções apuradas · atualizado às 19:21
+[ projeção pouco confiável até 2,5% das seções ]
+------------------------------------------------------------------------
+  — Lula PT   : 51,7%  (51,72%) | faixa de 95%: 51,4 – 52,0 | apurado agora: 50,8%
+  — Flávio PL : 48,3%  (48,28%) | faixa de 95%: 48,0 – 48,6 | apurado agora: 49,2%
+------------------------------------------------------------------------
+  Comparativo aos 2,42% das seções:
+  • Placar Bruto TSE:  50,80% (Erro: -0.99 p.p.)
+  • Modelo V1 (Antigo): 51,12% (Erro: -0.67 p.p.)
+  • Modelo V2 (Novo):   51,72% (Erro: -0.07 p.p.)
+  • Resultado 100% TSE: 51,79%
+========================================================================
